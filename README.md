@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer from India</h3>
 
 
-
+- 💭 Expert in React, building beautiful, fast, and intuitive web experiences.
 - 💬 Ask me about **React, Vue, Nodejs, Javascript, Typescript**
 
 
